@@ -8,7 +8,7 @@ Let's start by installing WarriorJS globally with [npm](https://npmjs.com).
 Open the terminal and run:
 
 ```sh
-npm install --global @warriorjs/cli
+sudo npm install --global @warriorjs/cli
 ```
 
 > **[Node.js](https://nodejs.org) >=8 needs to be installed in your computer**
